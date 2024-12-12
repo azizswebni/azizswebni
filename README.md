@@ -1,4 +1,4 @@
-# Hi there, I'm Aziz Souabni 👋 Software engineer | Full Stack developer 🚀
+# Hi there, I'm Aziz Souabni 👋 Software engineer | Full Stack developer 
 
 ## 💻 Technical Skills
 ### Frontend Development
@@ -18,7 +18,7 @@
 - **Full-Stack Developer** at Innov'up, Tunisia
 - **Full-Stack Developer Intern** at Tunisian Geomatics Association
 
-## 📫 Let's Connect
+## 📫 Let's Connect 🚀
 - **Email:** aziz.souabnii@gmail.com
 - **LinkedIn:** [linkedin.com/in/azizsouabni](https://linkedin.com/in/azizsouabni)
 
