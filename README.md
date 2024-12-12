@@ -15,9 +15,7 @@
 
 ## 🎯 Professional Experience
 - **Full-Stack Developer** at Neopolis Development, Tunisia
-- 
 - **Full-Stack Developer** at Innov'up, Tunisia
-- 
 - **Full-Stack Developer Intern** at Tunisian Geomatics Association
 
 ## 📫 Let's Connect
