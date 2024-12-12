@@ -14,19 +14,11 @@
 - <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
 
 ## 🎯 Professional Experience
+- **Full-Stack Developer** at Neopolis Development, Tunisia
+- 
 - **Full-Stack Developer** at Innov'up, Tunisia
-  - Designed and developed a Smart Tracking Vehicle System integrating a Flutter-based mobile app with IoT components (ESP32, SIM808, ELM327).
-  - Led system design and real-time data tracking, ensuring reliability and performance.
-
-- **Full-Stack Developer Intern** at Neopolis Development, Tunisia
-  - Developed secure web and mobile applications tailored to the insurance industry.
-  - Enhanced system performance by implementing best practices in responsive design, database management, and API integration.
-
+- 
 - **Full-Stack Developer Intern** at Tunisian Geomatics Association
-  - Created a GIS-powered web app for waste collection and recycling management.
-
-## 📚 Education
-- **Bachelor's Degree:** Embedded Systems and IoT - The Higher Institute of Information Technologies and Communication, Tunisia
 
 ## 📫 Let's Connect
 - **Email:** aziz.souabnii@gmail.com
