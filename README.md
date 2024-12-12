@@ -1,4 +1,4 @@
-# Hi there, I'm Aziz Souabni 👋 Softawre engineer | Full Stack developer 🚀
+# Hi there, I'm Aziz Souabni 👋 Software engineer | Full Stack developer 🚀
 
 ## 💻 Technical Skills
 ### Frontend Development
