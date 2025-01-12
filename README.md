@@ -14,11 +14,6 @@
 - <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
 - <img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white" alt="Sentry"/> <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white" alt="SonarQube"/>
 
-## 🎯 Professional Experience
-- **Full-Stack Developer** at Neopolis Development, Tunisia
-- **Full-Stack Developer** at Innov'up, Tunisia
-- **Full-Stack Developer Intern** at Tunisian Geomatics Association
-
 ## 📫 Let's Connect 🚀
 - **Email:** aziz.souabnii@gmail.com
 - **LinkedIn:** [linkedin.com/in/azizsouabni](https://linkedin.com/in/azizsouabni)
